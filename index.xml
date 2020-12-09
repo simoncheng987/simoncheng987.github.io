@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simon Cheng</title>
-    <link>https://simoncheng987.github.io/</link>
+    <link>/</link>
     <description>Recent content on Simon Cheng</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://simoncheng987.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://simoncheng987.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 09 Dec 2020 13:11:54 +1300</pubDate>
       
-      <guid>https://simoncheng987.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Essay Write a Statement of Purpose up to 500 words on why you are applying to participate in a 360 International semester exchange.
 Your statement should include the following:
 The reasons why you would like to participate in an exchange (i.e. personal motivations, academic/professional benefits).
