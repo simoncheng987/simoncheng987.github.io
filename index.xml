@@ -7,6 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>bilibili</title>
+      <link>/bilibili/</link>
+      <pubDate>Wed, 09 Dec 2020 22:35:36 +0000</pubDate>
+      
+      <guid>/bilibili/</guid>
+      <description>This is the homepage of my bilibili account haha</description>
+    </item>
+    
+    <item>
+      <title>pilipili</title>
+      <link>/pilipili/</link>
+      <pubDate>Wed, 09 Dec 2020 22:35:36 +0000</pubDate>
+      
+      <guid>/pilipili/</guid>
+      <description>pilipili kanpai </description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Wed, 09 Dec 2020 13:11:54 +1300</pubDate>
