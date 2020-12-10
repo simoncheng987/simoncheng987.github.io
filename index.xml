@@ -12,7 +12,7 @@
       <pubDate>Wed, 09 Dec 2020 22:35:36 +0000</pubDate>
       
       <guid>/bilibili/</guid>
-      <description>This is the homepage of my bilibili account haha {{ % img src=&amp;quot;/media/annie.jpg&amp;quot; alt=&amp;ldquo;di&amp;rdquo; %}}</description>
+      <description>This is the homepage of my bilibili account haha {{ % img src=&amp;quot;/media/annie.jpg&amp;quot; alt=&amp;ldquo;annie&amp;rdquo; %}}</description>
     </item>
     
     <item>
