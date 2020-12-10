@@ -13,7 +13,7 @@
       
       <guid>/bilibili/</guid>
       <description>This is the homepage of my bilibili account haha
-{{ % img src=&amp;quot;/media/annie.jpg&amp;quot; alt=&amp;ldquo;annie&amp;rdquo; %}}</description>
+{{ % img src=&amp;ldquo;static/media/annie.jpg&amp;rdquo; alt=&amp;ldquo;annie&amp;rdquo; % }}</description>
     </item>
     
     <item>
