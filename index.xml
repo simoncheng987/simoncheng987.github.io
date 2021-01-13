@@ -18,31 +18,6 @@ Working Email simoncheng987@gmail.com</description>
     </item>
     
     <item>
-      <title>bilibili</title>
-      <link>/bilibili/</link>
-      <pubDate>Wed, 09 Dec 2020 22:35:36 +0000</pubDate>
-      
-      <guid>/bilibili/</guid>
-      <description>This is the homepage of my bilibili account haha
-didi
-test2
-test3
-test452</description>
-    </item>
-    
-    <item>
-      <title>pilipili</title>
-      <link>/pilipili/</link>
-      <pubDate>Wed, 09 Dec 2020 22:35:36 +0000</pubDate>
-      
-      <guid>/pilipili/</guid>
-      <description>pilipili kanpai Image testing
-annie:
-That&amp;rsquo;s a great image haha
-This link has no title attribute.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Wed, 09 Dec 2020 13:11:54 +1300</pubDate>
@@ -58,16 +33,7 @@ This link has no title attribute.</description>
       
       <guid>/blog/</guid>
       <description>Welcome to Simon&amp;rsquo;s Blog This is the summary page of my blogs. In this page I will be sharing blogs in 中文, English and occasionally 日本語 . You may filter blogs with the language that you want to read.
-List of blogs    Title Language Date     TIG Reflection Week 1 English               </description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>/introduction/</link>
-      <pubDate>Wed, 09 Dec 2020 13:11:54 +1300</pubDate>
-      
-      <guid>/introduction/</guid>
-      <description>Welcome to Simon&amp;rsquo;s Blog This is Simon&amp;rsquo;s blog</description>
+List of blogs    Title Language Date     TIG Reflection Week 1 English     </description>
     </item>
     
   </channel>
