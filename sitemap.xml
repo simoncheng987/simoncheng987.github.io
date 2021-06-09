@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>/cn3-late-autumn/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
