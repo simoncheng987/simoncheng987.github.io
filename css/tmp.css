@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'WenGuiGuTi';
+    src: url('./font/WenYueGuTiFangSong-2.ttf')
+  }
+
+.cn-writing{
+    font-family: consolas, "WenGuiGuTi";
+    background-color: #ffeac7;
+    line-height: 1.6;
+    color:#326952 ;
+    font-size: 24px;
+}
