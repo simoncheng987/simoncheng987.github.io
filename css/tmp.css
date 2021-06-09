@@ -8,5 +8,9 @@
     background-color: #ffeac7;
     line-height: 1.6;
     color:#326952 ;
+    /* font-size: 14px; */
+}
+
+.cn-writing p {
     font-size: 14px;
 }
