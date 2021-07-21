@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Portfolio of my projects</title>
+      <link>/portfolio/</link>
+      <pubDate>Wed, 21 Jul 2021 11:27:19 +1300</pubDate>
+      
+      <guid>/portfolio/</guid>
+      <description>This page contains projects that I have done previously and currently working on.
+   Project Status     DoMyTask on-going   bibobibo on-going   Ani-Searcher done   Quinzical done   Trade &amp;amp; Trace done   onAction done    On going projects DoMyTask During the development phase of a project, developers are facing a challenge of choosing their favourite tasks and teammates.</description>
+    </item>
+    
+    <item>
       <title>夏天结束了</title>
       <link>/cn2-the-end-of-summer/</link>
       <pubDate>Sat, 20 Feb 2021 17:48:28 +1300</pubDate>
@@ -153,15 +163,6 @@ List of blogs    Title Language Date     夏天结束了 cn 2021-02-20   韦小�
 那一丝飘落贝雷帽的运气，
 那分遗忘卧室锁匙的大意。
 深秋这一种痒，不需点解。</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/</guid>
-      <description>Portfolio of my projects </description>
     </item>
     
   </channel>
