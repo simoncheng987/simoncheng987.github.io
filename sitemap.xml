@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/cn4-edg-s11/</loc>
+    <lastmod>2021-11-08T17:48:28+13:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/portfolio/</loc>
     <lastmod>2021-07-21T11:27:19+13:00</lastmod>
   </url>
@@ -65,11 +70,6 @@
   <url>
     <loc>/blog-cn/</loc>
     <lastmod>2020-12-09T13:11:54+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cn4-edg-s11/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
